@@ -8,3 +8,5 @@ void print_line(int n);
 void print_diagonal(int n);
 void print_square(int size);
 int print_triangle(void);
+void print_integer(int m);
+void print_number(int n);
